@@ -102,7 +102,7 @@ HTTP СТАТУС КОДЫ
    HTTP-Метод	Безопасный	Идемпотентый
    GET	       Да	        Да
    HEAD	       Да	        Да
-   OPTIONS	    Да	        Да
+   OPTIONS	      Да	          Да
    PUT	       Нет	        Да
    DELETE	    Нет	        Да
    POST	       Нет	        Нет
