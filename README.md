@@ -71,5 +71,16 @@ HTTP СТАТУС КОДЫ
    и информацию о форматировании (в форматах CSS, XSL и т. д.) в интерактивное изображение форматированного содержимого
    на экране. Браузерный движок обычно используется в веб-браузерах (отсюда название), почтовых клиентах и других программах,
    нуждающихся в отображении и редактировании содержимого веб-страниц.
- 
+ ```
+   КАКИЕ БРАУЗЕРЫ КАКИЕ ЯДРА ИСПОЛЬЗУЮТ
    ```
+   Blink - Google Chrome, Opera, Yandex, Chromium, Vivaldi, Microsoft Edge
+   Gecko - Mozilla, SeaMonkey, Avant Browser, K-Meleon, Netscape Browser 
+   WebKit - Apple Safari, Konqueror
+   KHTML - Konqueror, ABrowse
+   ```
+   ЧТО ТАКОЕ API
+   ```
+   
+   ```
+  
