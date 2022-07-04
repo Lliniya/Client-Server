@@ -21,7 +21,7 @@ HTTP и HTTPS
    
     TLS (transport layer security) - прокачанная версия SSL. По сути, последняя версия SSL - это TLS 1.0, но сейчас применяются версии TLS 1.2 и 1.3
     ```
-    МЕТОДЫ HTTP ЗАПРОСА
+МЕТОДЫ HTTP ЗАПРОСА
     ```
     GET
     POST
