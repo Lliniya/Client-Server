@@ -104,7 +104,7 @@ HTTP СТАТУС КОДЫ
    HEAD	       Да	        Да
    OPTIONS	       Да	        Да
    PUT	       Нет	        Да
-   DELETE	    Нет	        Да
+   DELETE	      Нет	        Да
    POST	       Нет	        Нет
 
    ```
